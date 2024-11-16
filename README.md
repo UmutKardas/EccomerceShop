@@ -20,7 +20,7 @@
 
 | Home Screen | Product Detail Screen |
 |-------------|-----------------------|
-| ![Home](https://github.com/user-attachments/assets/71ad9a1b-7eca-4022-af38-29ee44cdac21) | ![Product](https://github.com/user-attachments/assets/0dcebf36-1348-425d-b01f-a21ded57378b) |
+| ![Home](https://github.com/user-attachments/assets/71ad9a1b-7eca-4022-af38-29ee44cdac21) | ![product](https://github.com/user-attachments/assets/42ec2ca2-a22b-4c09-88f9-ef2b5990b30a) |
 
 ## Installation
 
